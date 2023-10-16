@@ -1,0 +1,10 @@
+﻿namespace MauiSplashScreen
+{
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
+}
